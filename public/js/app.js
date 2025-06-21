@@ -1,5 +1,3 @@
-console.log('JavaScript file loaded')
-
 const form = document.querySelector('form')
 const search = document.querySelector('input')
 const weatherResult = document.querySelector('#weatherResult')
